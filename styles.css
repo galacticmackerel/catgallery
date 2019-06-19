@@ -1,0 +1,44 @@
+body{
+  background-color: #BDF3E1;
+  margin: 10px;
+}
+header{
+  width:95%;
+  border: 13px outset #024858;
+  display: flex;
+  /* align-items: center;
+  justify-content: center;
+  align-items: center;
+  align-content: center; */
+  flex-direction: column;
+  background: lightseagreen;
+  margin: auto;
+}
+h1{
+  text-align: center;
+
+}
+nav{
+  width:100%;
+  text-align: center;
+  background:darkcyan;
+  font-family: 'Quicksand', sans-serif;
+  color:white;
+}
+img{
+  /* height: 400px;
+  width: 400px; */
+  width: 32%;
+  height: 400px;
+  object-fit: cover;
+  margin: 5px;
+}
+main{
+  width:100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+}
